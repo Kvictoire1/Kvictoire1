@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Victor 👋  
+Web Developer | PHP • JavaScript • Node.js
 
-<!--
-**Kvictoire1/Kvictoire1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Passionate about web development  
+- Focused on building clean and useful applications  
+- Always improving and learning new technologies  
 
-Here are some ideas to get you started:
+## Skills
+- PHP, Laravel  
+- JavaScript, Node.js  
+- HTML, CSS, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning Now
+- React.js  
+- Advanced backend development  
+
+## Contact
+Email: your@email.com
