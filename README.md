@@ -16,4 +16,4 @@ Web Developer | PHP • JavaScript • Node.js
 - Advanced backend development  
 
 ## Contact
-Email: your@email.com
+Email:kabayizavictoire5@gmail.com
